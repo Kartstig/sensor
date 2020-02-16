@@ -1,7 +1,12 @@
 # Arduino Sensor Library
 
 ## Installation
-Download this repo's zip, or see releases.
+### Releases
+- [1.0.0](https://github.com/Kartstig/sensor/releases/tag/1.0.0)
+1. Download a release
+2. Unzip the contents in a folder called Sensor/
+3. Copy the folder into <arduino-path>/libraries/.
+
 
 
 ## Usage

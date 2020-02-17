@@ -21,7 +21,7 @@ void setup() {
 }
 
 void loop() {
-    sensorReading = MSensor1.averageRead();
+    int sensorReading = MSensor1.averageRead();
     Serial.println(sensorReading);
     delay(10);
 }
